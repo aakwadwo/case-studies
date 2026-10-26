@@ -1,8 +1,10 @@
+<img src="assets/campus-dash.jpeg" height="64" alt="Campus Dash logo">
+
 # Campus Dash
 
 **Product of:** [KAS Maven Consult](https://www.linkedin.com/company/kas-maven-consult/) ·
 **Role:** primary designer and developer · **Status:** in use with real users ·
-**Source:** private
+**Source:** private · **Live product:** [campusdash.app ↗](https://campusdash.app)
 
 ## Problem
 

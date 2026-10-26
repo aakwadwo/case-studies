@@ -1,7 +1,9 @@
+<img src="assets/kasem.png" height="64" alt="Kasem logo">
+
 # Kasem
 
 **Product of:** [KAS Maven Consult](https://www.linkedin.com/company/kas-maven-consult/) ·
-**Role:** developer · **Source:** private
+**Role:** developer · **Source:** private · **Live product:** [kasem.app ↗](https://kasem.app)
 
 ## Purpose
 

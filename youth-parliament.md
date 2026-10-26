@@ -1,3 +1,5 @@
+<img src="assets/youth-parliament-ghana.jpg" height="64" alt="Youth Parliament Ghana logo">
+
 # Youth Parliament voting platform
 
 **Client:** National Youth Parliament of Ghana · **Role:** sole developer ·
